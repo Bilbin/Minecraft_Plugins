@@ -1,0 +1,4 @@
+name: ExplodingPlugin
+version: 1.0-SNAPSHOT
+main: io.github.bilbin.explodingplugin.ExplodingPlugin
+api-version: 1.13

@@ -1,0 +1,4 @@
+io\github\bilbin\slimebootsplugin\SlimeBootsPlugin.class
+io\github\bilbin\slimebootsplugin\listeners\DamageListener.class
+io\github\bilbin\slimebootsplugin\VelocityCommand.class
+io\github\bilbin\slimebootsplugin\FallingTask.class

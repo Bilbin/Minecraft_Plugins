@@ -1,0 +1,3 @@
+name: DeathMessagesPlugin
+version: ${project.version}
+main: io.github.bilbin.deathmessagesplugin.DeathMessagesPlugin

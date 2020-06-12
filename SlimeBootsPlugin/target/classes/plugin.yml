@@ -1,0 +1,9 @@
+name: SlimeBootsPlugin
+version: 1.0-SNAPSHOT
+main: io.github.bilbin.slimebootsplugin.SlimeBootsPlugin
+api-version: 1.13
+
+commands:
+  vel:
+    description: Velocity sender
+    usage: /vel velocity
